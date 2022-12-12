@@ -39,6 +39,9 @@ section#login{
 div.login{
     color: white;
 }
+div.login > p > input {
+    width: 0px;
+}
 
 form{
     text-align: center;
